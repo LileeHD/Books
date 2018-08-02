@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Books</string>
+    <!--titles-->
+    <string name="inventory">Library</string>
+    <string name="detail">Book detail</string>
+    <string name="edit">Book edit</string>
+
+    <!--provided book-->
+    <string name="lotr_name">Lord of the Rings</string>
+    <string name="sup_name">Houghton Mifflin Co</string>
+    <string name="sup_phone">617 351 5000</string>
+
+    <!--Buttons-->
+    <string name="buy_btn">Buy: </string>
+    <string name="increment_btn">+</string>
+    <string name="decrement_btn">-</string>
+    <string name="save_btn">Save</string>
+    <string name="add_book_btn">Add a book on the go</string>
+
+    <string name="call_btn">Call to order</string>
+    <string name="edit_btn">Edit this book</string>
+    <string name="delete_book">Delete this book</string>
+    <string name="delete_all_books">Delete all books</string>
+    <string name="add_preview_book">Add a ready book</string>
+
+    <!--TextViews-->
+    <string name="overview">Overview</string>
+    <string name="book_name">Book name</string>
+    <string name="currency">$ </string>
+    <string name="price">Price: $</string>
+    <string name="quantity">Quantity: </string>
+    <string name="supplier_info">Supplier info</string>
+    <string name="supplier_name">Name</string>
+    <string name="supplier_phone">tel:</string>
+
+    <string name="zero">0</string>
+    <string name="empty_text">Please consider adding books by clicking the floating button</string>
+    <string name="info_edit">Check the top right menu for more options.</string>
+    <string name="out_stock">Out of stock</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this book?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+</resources>
